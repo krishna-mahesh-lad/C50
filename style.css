@@ -1,0 +1,39 @@
+
+    h1 {color: brown;
+    border : solid;
+    margin : 20px;
+    }
+   /*{border: solid;}*/
+
+    .Header 
+    {
+        background-color: aqua;
+        display : flex;
+        justify-content: space-between;
+        border: solid;
+        margin: 20;
+    }
+    
+    .Menu
+    {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+
+    .Footer
+    {
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    .SiteDescription
+    {
+        text-align: center;
+    }
+
+    .Item
+    {
+        border : solid
+    }
+
